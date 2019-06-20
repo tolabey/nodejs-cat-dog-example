@@ -1,6 +1,9 @@
 # nodejs-cat-dog-example
+ 
  brew install mongodb 
+ 
  mkdir -p /data/db
+ 
  chown -R `id -un` /data/db
  
  **mongo**
